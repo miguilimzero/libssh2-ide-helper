@@ -17,6 +17,6 @@
     "autoload-dev": {
         "files": [
             "src/ssh2.php"
-        ],
+        ]
     }
 }
