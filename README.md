@@ -11,7 +11,7 @@ The purpose of avoid the tips of undefined and improve work efficiency.
 ## Usage
 ### Composer (recommended)：
 
-    composer require --dev "srdante/ssh2-ide-helper:dev-main"
+    composer require --dev srdante/ssh2-ide-helper
 
 ### Text editor：
 
