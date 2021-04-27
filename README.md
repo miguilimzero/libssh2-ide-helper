@@ -9,11 +9,11 @@ Auto completion, trigger suggest and view docs for [SSH2](https://www.php.net/ma
 The purpose of avoid the tips of undefined and improve work efficiency.
 
 ## Usage
-### Composer (recommended)：
+### Composer (recommended)
 
     composer require --dev srdante/ssh2-ide-helper
 
-### Text editor：
+### Text editor
 
 Put the source code in your project.
 
