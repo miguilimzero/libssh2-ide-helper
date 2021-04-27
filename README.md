@@ -1,4 +1,4 @@
-SSH22 IDE Helper
+SSH2 IDE Helper
 ====================
 
 Auto completion, trigger suggest and view docs for [SSH2](https://www.php.net/manual/en/book.ssh2.php) in editor.
