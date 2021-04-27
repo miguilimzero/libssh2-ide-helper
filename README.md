@@ -22,6 +22,6 @@ Put the source code in your project.
 Put the source code path into `Include Path` in IDE.
 
 
-[ico-downloads]: https://img.shields.io/packagist/dt/srdante/ssh2-ide-helper.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/srdante/libssh2-ide-helper.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[link-downloads]: https://packagist.org/packages/srdante/ssh2-ide-helper
+[link-downloads]: https://packagist.org/packages/srdante/libssh2-ide-helper
