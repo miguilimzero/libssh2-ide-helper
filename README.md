@@ -1,4 +1,4 @@
-SSH2 IDE Helper
+LIBSSH2 IDE Helper
 ====================
 
 [![Software License][ico-license]](LICENSE.md)
@@ -11,7 +11,7 @@ The purpose of avoid the tips of undefined and improve work efficiency.
 ## Usage
 ### Composer (recommended)
 
-    composer require --dev srdante/ssh2-ide-helper
+    composer require --dev srdante/libssh2-ide-helper
 
 ### Text editor
 
