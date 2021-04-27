@@ -4,7 +4,7 @@ SSH2 IDE Helper
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-Auto completion, trigger suggest and view docs for [SSH2](https://www.php.net/manual/en/book.ssh2.php) in editor.
+Auto completion, trigger suggest and view docs for [LIBSSH2](https://www.php.net/manual/en/book.ssh2.php) in editor.
 
 The purpose of avoid the tips of undefined and improve work efficiency.
 
