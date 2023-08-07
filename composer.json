@@ -1,18 +1,11 @@
 {
-    "name": "srdante/libssh2-ide-helper",
+    "name": "miguilim/libssh2-ide-helper",
     "description": "Auto completion, trigger suggest and view docs for LIBSSH2 in editor.",
     "type": "library",
     "license": "MIT",
     "keywords": ["ssh2", "autocomplete", "ide", "helper", "phpstorm", "netbeans", "sublime", "codeintel", "phpdoc"],
-    "authors": [
-        {
-            "name": "dante",
-            "email": "minidantebtc@gmail.com",
-            "role": "lead"
-        }
-    ],
     "require": {
-        "php": ">=7.0"
+        "php": "^7.0|^8.0"
     },
     "autoload-dev": {
         "files": [
